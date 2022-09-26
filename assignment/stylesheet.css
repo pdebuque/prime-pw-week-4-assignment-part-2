@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(194, 118, 47);
+}
+
+.info h2 {
+    background-color: rgb(147, 147, 240);
+    color: rgb(54, 14, 14);
+}
+
+.info h3 {
+    background-color: antiquewhite;
+    color: rgb(30, 12, 75);
+}
